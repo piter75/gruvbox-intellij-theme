@@ -612,7 +612,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="FOREGROUND" value="f9f5d7" />
+        <option name="BACKGROUND" value="32302f" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">

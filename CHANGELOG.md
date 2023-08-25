@@ -4,6 +4,11 @@
 
 ## Unreleased
 
+## 0.6.8
+
+### Changed
+- remove explicit foreground color for language injections so the syntaxhighlighting works
+
 ## 0.6.6
 
 ### Added
