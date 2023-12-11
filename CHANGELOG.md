@@ -4,6 +4,12 @@
 
 ## Unreleased
 
+## 0.6.9
+
+### Added
+- 2023.3+ support
+- removed `untilBuild` since there's rarely any breaking changes for theme only extensions
+
 ## 0.6.8
 
 ### Changed
