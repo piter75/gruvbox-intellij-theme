@@ -5,8 +5,8 @@
   "editorScheme": "/gruvbox_light_hard.xml",
   "colors": {
     "bg0": "#fbf1c7",
-    "bg0_h": "#f9f5d7",
-    "bg0_s": "#f2e5bc",
+    "bg0h": "#f9f5d7",
+    "bg0s": "#f2e5bc",
     "bg1": "#ebdbb2",
     "bg2": "#d5c4a1",
     "bg3": "#bdae93",
@@ -52,13 +52,13 @@
       "selectedInactiveBackground": "bg2",
       "selectedBackgroundInactive": "bg2",
 
-      "selectedBackground": "bg0_h",
+      "selectedBackground": "bg0h",
       "selectedForeground": "fg0",
 
       "hoverBackground": "#fbf1c766",
 
       "borderColor": "bg2",
-      "disabledBorderColor": "bg0_h",
+      "disabledBorderColor": "bg0h",
 
       "separatorColor": "bg2"
     },
@@ -89,24 +89,24 @@
       }
     },
     "EditorTabs": {
-      "selectedBackground": "bg0_s",
-      "underlinedTabBackground": "bg0_h",
+      "selectedBackground": "bg0s",
+      "underlinedTabBackground": "bg0h",
       "underlineColor": "blue1",
       "inactiveMaskColor": "#fbf1c766"
     },
     "ToolWindow": {
       "Header": {
-        "background": "bg0_s",
+        "background": "bg0s",
         "inactiveBackground": "bg"
       },
 
       "HeaderTab": {
-        "selectedInactiveBackground": "bg0_h",
-        "hoverInactiveBackground": "bg0_h"
+        "selectedInactiveBackground": "bg0h",
+        "hoverInactiveBackground": "bg0h"
       }
     },
     "Table": {
-      "stripeColor": "bg0_s",
+      "stripeColor": "bg0s",
       "lightSelectionForeground": "fg0",
       "lightSelectionInactiveForeground":"fg4",
       "lightSelectionBackground": "bg2",

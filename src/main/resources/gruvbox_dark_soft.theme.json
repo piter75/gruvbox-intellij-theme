@@ -1,13 +1,13 @@
 {
   "name": "Gruvbox Dark Soft",
   "dark": true,
-  "author": "Vincent Parizet",
+  "author": "Vincent Parizet, Piotr Szczepanik",
   "editorScheme": "/gruvbox_dark_soft.xml",
   "colors": {
     "bg0": "#282828",
-    "bg0_h": "#1d2021",
-    "bg0_s": "#32302f",
-    "bg0_ss": "#4F4945",
+    "bg0h": "#1d2021",
+    "bg0s": "#32302f",
+    "bg0ss": "#4F4945",
     "bg1": "#3c3836",
     "bg2": "#504945",
     "bg3": "#665c54",
@@ -46,21 +46,21 @@
       "infoForeground": "fg",
 
       "lightSelectionBackground": "bg1",
-      "selectionBackground": "bg0_ss",
+      "selectionBackground": "bg0ss",
       "selectionForeground": "fg0",
 
-      "selectionBackgroundInactive": "bg0_ss",
-      "selectionInactiveBackground": "bg0_ss",
+      "selectionBackgroundInactive": "bg0ss",
+      "selectionInactiveBackground": "bg0ss",
 
-      "selectedBackground": "bg0_h",
+      "selectedBackground": "bg0h",
       "selectedForeground": "fg0",
-      "selectedInactiveBackground": "bg0_s",
-      "selectedBackgroundInactive": "bg0_s",
+      "selectedInactiveBackground": "bg0s",
+      "selectedBackgroundInactive": "bg0s",
 
       "hoverBackground": "#28282866",
 
       "borderColor": "bg2",
-      "disabledBorderColor": "bg0_h",
+      "disabledBorderColor": "bg0h",
 
       "separatorColor": "bg2"
     },
@@ -91,24 +91,24 @@
       }
     },
     "EditorTabs": {
-      "selectedBackground": "bg0_s",
+      "selectedBackground": "bg0s",
       "underlinedTabBackground": "bg2",
       "underlineColor": "blue1",
       "inactiveMaskColor": "#28282866"
     },
     "ToolWindow": {
       "Header": {
-        "background": "bg0_s",
+        "background": "bg0s",
         "inactiveBackground": "bg"
       },
 
       "HeaderTab": {
-        "selectedInactiveBackground": "bg0_h",
-        "hoverInactiveBackground": "bg0_h"
+        "selectedInactiveBackground": "bg0h",
+        "hoverInactiveBackground": "bg0h"
       }
     },
     "Table": {
-      "stripeColor": "bg0_s",
+      "stripeColor": "bg0s",
       "lightSelectionForeground": "fg0",
       "lightSelectionInactiveForeground":"fg4",
       "lightSelectionBackground": "bg2",
