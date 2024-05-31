@@ -1,7 +1,7 @@
 <idea-plugin>
-    <id>com.k1ngjulien.ng-gruvbox-theme</id>
-    <name>NG Gruvbox Theme</name>
-    <vendor email="julian.kandlhofer@gmail.com" url="https://github.com/k1ngjulien">Julian Kandlhofer</vendor>
+    <id>com.github.piter75.gruvbox-themes</id>
+    <name>Gruvbox Themes</name>
+    <vendor email="piter75@gmail.com" url="https://github.com/piter75">Piotr Szczepanik</vendor>
 
     <description><![CDATA[
     gruvbox is heavily inspired by badwolf, jellybeans and solarized.
@@ -9,6 +9,7 @@
     Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
 
     Forked from archived Vincent-P/gruvbox-intellij-theme to add support for IDEA 2022.3+.
+    Forked from K1ngjulien/gruvbox-intellij-theme to extend.
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
@@ -18,12 +19,12 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/gruvbox_dark_medium.theme.json"/>
-        <themeProvider id="b56b7f2a-ef4c-4717-aeb9-b031dfc50891" path="/gruvbox_dark_soft.theme.json"/>
-        <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86c" path="/gruvbox_dark_hard.theme.json"/>
-        <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86d" path="/gruvbox_light_medium.theme.json"/>
-        <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86e" path="/gruvbox_light_soft.theme.json"/>
-        <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86f" path="/gruvbox_light_hard.theme.json"/>
+        <themeProvider id="015999e4-360a-405c-8131-98003a1eafdf" path="/gruvbox_dark_medium.theme.json"/>
+        <themeProvider id="dcc6d028-96cf-4f91-a66e-d9669b0907a2" path="/gruvbox_dark_soft.theme.json"/>
+        <themeProvider id="7887398d-cd17-4724-85cf-a26a6ec03595" path="/gruvbox_dark_hard.theme.json"/>
+        <themeProvider id="ce07554a-22d5-4497-80f1-2bbd7861a78b" path="/gruvbox_light_medium.theme.json"/>
+        <themeProvider id="f0d65ddb-be1b-4f23-8938-e22d86867400" path="/gruvbox_light_soft.theme.json"/>
+        <themeProvider id="ed84bfd4-b776-4243-a386-9f9135e60607" path="/gruvbox_light_hard.theme.json"/>
     </extensions>
 
     <actions>
