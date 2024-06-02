@@ -1,7 +1,7 @@
 {
   "name": "Gruvbox Dark Medium",
   "dark": true,
-  "author": "Vincent Parizet",
+  "author": "Vincent Parizet, Piotr Szczepanik",
   "editorScheme": "/gruvbox_dark_medium.xml",
   "colors": {
     "bg0": "#282828",
@@ -45,11 +45,11 @@
       "infoForeground": "fg",
 
       "lightSelectionBackground": "bg1",
-      "selectionBackground": "#4F4945",
+      "selectionBackground": "bg1",
       "selectionForeground": "fg0",
 
-      "selectionBackgroundInactive": "bg0s",
-      "selectionInactiveBackground": "bg0s",
+      "selectionBackgroundInactive": "bg1",
+      "selectionInactiveBackground": "bg1",
 
       "selectedBackground": "bg0h",
       "selectedForeground": "fg0",
@@ -58,13 +58,20 @@
 
       "hoverBackground": "#28282866",
 
-      "borderColor": "bg2",
+      "borderColor": "bg1",
       "disabledBorderColor": "bg0h",
 
       "separatorColor": "bg2"
     },
     "ActionButton": {
-      "hoverBackground": "bg2"
+      "hoverBackground": "bg1",
+      "hoverBorderColor": "bg1",
+      "pressedBackground": "bg1",
+      "pressedBorderColor": "bg1"
+    },
+    "Borders": {
+      "color": "bg1",
+      "ContrastBorderColor": "bg1"
     },
     "Button": {
       "startBackground": "bg",
@@ -79,7 +86,8 @@
         "startBorderColor": "#4F4945",
         "endBorderColor": "#4F4945",
         "focusedBorderColor": "bg"
-      }
+      },
+      "disabledText": "fg3"
     },
     "ComboBox": {
       "nonEditableBackground": "bg",
@@ -91,11 +99,33 @@
     },
     "EditorTabs": {
       "selectedBackground": "bg0s",
-      "underlinedTabBackground": "bg2",
-      "underlineColor": "blue1",
-      "inactiveMaskColor": "#28282866"
+      "underlinedTabBackground": "bg1",
+      "underlineColor": "blue1"
+    },
+    "NotificationsToolwindow": {
+      "newNotification": {
+        "background": "bg0s",
+        "hoverBackground": "bg1"
+      },
+      "Notification": {
+        "hoverBackground": "bg0s"
+      }
+    },
+    "Notification": {
+      "background": "bg0s"
+    },
+    "Popup": {
+      "Header": {
+        "activeBackground": "bg",
+        "inactiveBackground": "bg"
+      }
     },
     "ToolWindow": {
+      "Button": {
+        "selectedBackground": "bg1",
+        "selectedForeground": "fg0",
+        "hoverBackground": "bg1"
+      },
       "Header": {
         "background": "bg0s",
         "inactiveBackground": "bg"
@@ -106,16 +136,37 @@
         "hoverInactiveBackground": "bg0h"
       }
     },
+    "ToolTip": {
+      "background": "bg1"
+    },
     "Table": {
       "stripeColor": "bg0s",
       "lightSelectionForeground": "fg0",
-      "lightSelectionInactiveForeground":"fg4",
+      "lightSelectionInactiveForeground": "fg4",
       "lightSelectionBackground": "bg2",
-      "lightSelectionInactiveBackground":"bg"
+      "lightSelectionInactiveBackground": "bg"
+    },
+    "Tree": {
+      "selectionInactiveForeground": "fg",
+      "selectionForeground": "fg1",
+      "forceFocusedSelectionForeground": false
+    },
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "bg0s",
+        "hoveredBackground": "bg1"
+      },
+      "GitLog": {
+        "headIconColor": "yellow1",
+        "localBranchIconColor": "green1",
+        "otherIconColor": "gray1",
+        "remoteBranchIconColor": "purple1",
+        "tagIconColor": "gray1"
+      }
     },
     "FileColor": {
-      "Yellow": "#fabd2f22",
-      "Green": "#b8bb2622",
+      "Yellow": "#fabd2f06",
+      "Green": "#b8bb2612",
       "Blue": "#83a59822",
       "Violet": "#d3869b22",
       "Orange": "#fe801922",
@@ -127,9 +178,9 @@
       "pressedForeground": "blue1",
       "visitedForeground": "blue1"
     },
-    "ScrollBar" : {
-      "hoverThumbBorderColor" : "bg1",
-      "background" : "bg0",
+    "ScrollBar": {
+      "hoverThumbBorderColor": "bg1",
+      "background": "bg0",
       "hoverThumbColor": "bg1",
       "hoverTrackColor": "bg0",
       "thumb": "bg2",
@@ -137,20 +188,20 @@
       "thumbColor": "bg2",
       "Transparent": {
         "thumbColor": "bg2",
-        "hoverThumbBorderColor" : "bg1",
+        "hoverThumbBorderColor": "bg1",
         "hoverThumbColor": "bg1",
         "hoverTrackColor": "bg0",
         "thumbBorderColor": "bg2"
       },
-      "Mac" : {
+      "Mac": {
         "Transparent": {
           "thumbColor": "bg2",
-          "hoverThumbBorderColor" : "bg1",
+          "hoverThumbBorderColor": "bg1",
           "hoverThumbColor": "bg1",
           "hoverTrackColor": "bg0",
           "thumbBorderColor": "bg2"
         },
-        "hoverThumbBorderColor" : "bg1",
+        "hoverThumbBorderColor": "bg1",
         "hoverThumbColor": "bg1",
         "hoverTrackColor": "bg0",
         "thumbBorderColor": "bg2",
@@ -161,7 +212,7 @@
   "icons": {
     "ColorPalette": {
       "Actions.Grey": "#928374",
-      "Actions.Red": "#fb4934",
+      "Actions.Red": "#d65d0e",
       "Actions.Yellow": "#fabd2f",
       "Actions.Green": "#98971a",
       "Actions.Blue": "#458588",
@@ -169,7 +220,7 @@
 
       "Objects.Grey": "#928374FF",
       "Objects.RedStatus": "#fb4934FF",
-      "Objects.Red": "#fb4934FF",
+      "Objects.Red": "#d65d0eFF",
       "Objects.Pink": "#d3869bFF",
       "Objects.Yellow": "#fabd2fFF",
       "Objects.Green": "#98971aFF",
