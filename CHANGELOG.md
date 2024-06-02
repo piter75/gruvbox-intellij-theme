@@ -4,6 +4,9 @@
 
 ## Unreleased
 
+## 0.7.0
+- adjusted Dark Medium and Dark Soft variants to better adhere to original Gruvbox theme
+
 ## 0.6.9
 
 ### Added

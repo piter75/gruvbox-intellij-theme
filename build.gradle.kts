@@ -55,6 +55,10 @@ tasks {
         kotlinOptions.jvmTarget = "17"
     }
 
+    buildSearchableOptions {
+        enabled = false
+    }
+
     patchPluginXml {
         version.set(properties("pluginVersion"))
         sinceBuild.set(properties("pluginSinceBuild"))
