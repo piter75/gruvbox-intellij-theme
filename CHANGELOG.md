@@ -3,6 +3,7 @@
 # Gruvbox theme changelog
 
 ## Unreleased
+- Don't use bright colors in console - IntelliJ's terminal already uses bold font
 
 ## 0.7.2
 - Fix unfocused selection foreground in unfocused VCS Log

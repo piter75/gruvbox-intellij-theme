@@ -135,24 +135,24 @@
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="83a598" />
+        <option name="FOREGROUND" value="458588" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="83a598" />
+        <option name="FOREGROUND" value="458588" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="8ec07c" />
+        <option name="FOREGROUND" value="689d6a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="8ec07c" />
+        <option name="FOREGROUND" value="689d6a" />
       </value>
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
@@ -165,29 +165,29 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bdae93" />
+        <option name="FOREGROUND" value="928374" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b8bb26" />
+        <option name="FOREGROUND" value="98971a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b8bb26" />
+        <option name="FOREGROUND" value="98971a" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="b16286" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="b16286" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -195,13 +195,13 @@
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fb4934" />
+        <option name="FOREGROUND" value="cc241d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fb4934" />
+        <option name="FOREGROUND" value="cc241d" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -219,13 +219,13 @@
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fabd2f" />
+        <option name="FOREGROUND" value="d79921" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fabd2f" />
+        <option name="FOREGROUND" value="d79921" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
