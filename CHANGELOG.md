@@ -4,6 +4,9 @@
 
 ## Unreleased
 
+## 0.7.2
+- Fix unfocused selection foreground in unfocused VCS Log
+
 ## 0.7.1
 
 - Add preliminary versions of Gruvbox Material Dark Medium and Soft variants
