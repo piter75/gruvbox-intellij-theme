@@ -4,6 +4,11 @@
 
 ## Unreleased
 
+## 0.7.1
+
+- Add preliminary versions of Gruvbox Material Dark Medium and Soft variants
+- Fix completion popup background in Dark Medium variant
+
 ## 0.7.0
 - adjusted Dark Medium and Dark Soft variants to better adhere to original Gruvbox theme
 

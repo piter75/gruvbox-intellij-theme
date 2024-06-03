@@ -2,7 +2,12 @@
 
 <!-- Plugin description -->
 
-gruvbox by [morhetz](https://github.com/morhetz/gruvbox) is heavily inspired by badwolf, jellybeans and solarized.
+This themes set contains Gruvbox and Gruvbox Matrial themes. Material themes are early work in progress.
+
+Gruvbox by [morhetz](https://github.com/morhetz/gruvbox) is heavily inspired by badwolf, jellybeans and solarized.
+
+Gruvbox Material by [sainnhe](https://github.com/sainnhe/gruvbox-material) is a modified version of Gruvbox,
+the contrast is adjusted to be softer in order to protect developers' eyes.
 
 Main focus of this implementation is going to be put on Dark themes.
 
