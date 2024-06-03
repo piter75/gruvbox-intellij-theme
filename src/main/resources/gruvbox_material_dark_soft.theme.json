@@ -40,22 +40,27 @@
   },
   "ui": {
     "*": {
-
       "background": "bg",
       "foreground": "fg",
+
       "infoForeground": "fg",
+
       "lightSelectionBackground": "bg1",
       "selectionBackground": "bg1",
       "selectionForeground": "fg0",
+
       "selectionBackgroundInactive": "bg1",
       "selectionInactiveBackground": "bg1",
       "selectedBackground": "bg0h",
       "selectedForeground": "fg0",
       "selectedInactiveBackground": "bg0s",
       "selectedBackgroundInactive": "bg0s",
+
       "hoverBackground": "#28282866",
+
       "borderColor": "bg1",
       "disabledBorderColor": "bg0h",
+
       "separatorColor": "bg2"
     },
     "ActionButton": {
@@ -73,6 +78,7 @@
       "endBackground": "bg",
       "startBorderColor": "bg2",
       "endBorderColor": "bg2",
+
       "default": {
         "foreground": "fg0",
         "startBackground": "#32302F",
@@ -124,6 +130,7 @@
         "background": "bg0s",
         "inactiveBackground": "bg"
       },
+
       "HeaderTab": {
         "selectedInactiveBackground": "bg0h",
         "hoverInactiveBackground": "bg0h"
@@ -147,7 +154,8 @@
     "VersionControl": {
       "Log.Commit": {
         "currentBranchBackground": "bg0s",
-        "hoveredBackground": "bg1"
+        "hoveredBackground": "bg1",
+        "selectionInactiveForeground": "fg1"
       },
       "GitLog": {
         "headIconColor": "yellow1",
@@ -210,6 +218,7 @@
       "Actions.Green": "#98971a",
       "Actions.Blue": "#458588",
       "Actions.GreyInline.Dark": "#fbf1c7",
+
       "Objects.Grey": "#928374FF",
       "Objects.RedStatus": "#fb4934FF",
       "Objects.Red": "#d65d0eFF",
@@ -221,6 +230,7 @@
       "Objects.BlackText": "#000000FF",
       "Objects.YellowDark": "#d79921FF",
       "Objects.GreenAndroid": "#b8bb26FF",
+
       "Checkbox.Background.Default.Dark": "#282828",
       "Checkbox.Border.Default.Dark": "#fbf1c7",
       "Checkbox.Foreground.Selected.Dark": "#fbf1c7",

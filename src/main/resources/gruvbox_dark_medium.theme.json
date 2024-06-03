@@ -154,7 +154,8 @@
     "VersionControl": {
       "Log.Commit": {
         "currentBranchBackground": "bg0s",
-        "hoveredBackground": "bg1"
+        "hoveredBackground": "bg1",
+        "selectionInactiveForeground": "fg1"
       },
       "GitLog": {
         "headIconColor": "yellow1",
