@@ -596,6 +596,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="GO_BLOCK_COMMENT" baseAttributes="DEFAULT_BLOCK_COMMENT" />
     <option name="GO_BUILTIN_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="GO_BUILTIN_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
