@@ -118,6 +118,14 @@
     "Notification": {
       "background": "bg0s"
     },
+    "RunWidget": {
+      "runIconColor": "aqua0",
+      "runningIconColor": "bg1",
+      "runningBackground": "aqua0",
+      "stopBackground": "orange0",
+      "foreground": "fg",
+      "iconColor": "fg"
+    },
     "Popup": {
       "Header": {
         "activeBackground": "bg",

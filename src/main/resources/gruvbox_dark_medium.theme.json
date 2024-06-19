@@ -124,6 +124,14 @@
         "inactiveBackground": "bg"
       }
     },
+    "RunWidget": {
+      "runIconColor": "aqua0",
+      "runningIconColor": "fg",
+      "runningBackground": "aqua0",
+      "stopBackground": "orange0",
+      "foreground": "fg",
+      "iconColor": "fg"
+    },
     "ToolWindow": {
       "Button": {
         "selectedBackground": "bg1",
