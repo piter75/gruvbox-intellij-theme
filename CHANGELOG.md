@@ -2,8 +2,11 @@
 
 # Gruvbox theme changelog
 
-## Unreleased
+## 0.7.3
 - Don't use bright colors in console - IntelliJ's terminal already uses bold font
+- Fix Groovy keyword colors in dark soft and medium themes
+- Adjust memory indicator colors for dark soft and medium themes
+- Adjust run widget colors for dark soft and medium themes
 
 ## 0.7.2
 - Fix unfocused selection foreground in unfocused VCS Log
