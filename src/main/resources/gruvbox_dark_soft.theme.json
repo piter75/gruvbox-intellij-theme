@@ -112,6 +112,10 @@
         "hoverBackground": "bg1"
       }
     },
+    "MemoryIndicator": {
+      "allocatedBackground": "bg1",
+      "usedBackground": "bg2"
+    },
     "Notification": {
       "background": "bg1"
     },
