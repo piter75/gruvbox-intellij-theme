@@ -100,6 +100,9 @@
         "nonEditableBackground": "bg"
       }
     },
+    "DragAndDrop": {
+      "areaBackground": "bg"
+    },
     "EditorTabs": {
       "selectedBackground": "bg0s",
       "underlinedTabBackground": "bg1",
@@ -139,13 +142,20 @@
       "Button": {
         "selectedBackground": "bg1",
         "selectedForeground": "fg0",
-        "hoverBackground": "bg1"
+        "hoverBackground": "bg1",
+        "DragAndDrop": {
+          "buttonDropBorderColor": "blue0",
+          "buttonFloatingBackground": "bg",
+          "stripeBackground": "bg1"
+        }
+      },
+      "DragAndDrop": {
+        "areaBackground": "blue0"
       },
       "Header": {
         "background": "bg0s",
         "inactiveBackground": "bg"
       },
-
       "HeaderTab": {
         "selectedInactiveBackground": "bg0h",
         "hoverInactiveBackground": "bg0h"
