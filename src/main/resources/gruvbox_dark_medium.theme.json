@@ -107,6 +107,9 @@
       "underlinedTabBackground": "bg1",
       "underlineColor": "blue1"
     },
+    "List": {
+      "selectionInactiveForeground": "fg1"
+    },
     "NotificationsToolwindow": {
       "newNotification": {
         "background": "bg0s",
