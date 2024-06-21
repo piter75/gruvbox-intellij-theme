@@ -51,6 +51,7 @@
 
       "selectionBackgroundInactive": "bg1",
       "selectionInactiveBackground": "bg1",
+
       "selectedBackground": "bg0h",
       "selectedForeground": "fg0",
       "selectedInactiveBackground": "bg0s",
@@ -61,7 +62,8 @@
       "borderColor": "bg1",
       "disabledBorderColor": "bg0h",
 
-      "separatorColor": "bg2"
+      "separatorColor": "bg2",
+      "disabledForeground": "#a8998499"
     },
     "ActionButton": {
       "hoverBackground": "bg1",
@@ -90,6 +92,7 @@
       "disabledText": "fg3"
     },
     "ComboBox": {
+      "disabledBackground": "bg1",
       "nonEditableBackground": "bg",
       "ArrowButton": {
         "iconColor": "fg0",
