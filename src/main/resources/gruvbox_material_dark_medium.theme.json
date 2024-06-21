@@ -117,6 +117,10 @@
         "hoverBackground": "bg0s"
       }
     },
+    "MenuItem": {
+      "acceleratorForeground": "#a89984cc",
+      "acceleratorSelectionForeground": "#a89984cc"
+    },
     "MemoryIndicator": {
       "allocatedBackground": "bg1",
       "usedBackground": "bg3"
