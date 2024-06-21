@@ -9,7 +9,7 @@ Gruvbox by [morhetz](https://github.com/morhetz/gruvbox) is heavily inspired by 
 Gruvbox Material by [sainnhe](https://github.com/sainnhe/gruvbox-material) is a modified version of Gruvbox,
 the contrast is adjusted to be softer in order to protect developers' eyes.
 
-Main focus of this implementation is going to be put on Dark themes.
+Main focus of this implementation during the initial stage is going to be put on Medium and Soft variants of Dark themes.
 
 It is tested with macOS and new UI only.
 Treat it as beta quality software!

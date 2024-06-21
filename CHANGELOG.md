@@ -2,6 +2,14 @@
 
 # Gruvbox theme changelog
 
+## 0.7.4
+- Adjust Git graph color in rebase dialog (dark medium and soft)
+- Adjust inactive selection foreground of lists (dark medium and soft)
+- Adjust non-determinable ProgressBar colors (dark medium and soft)
+- Adjust colors of keyboard shortcuts in popup menus (dark medium and soft)
+- Adjust colors of Drag&Drop UI (dark medium and soft)
+- Adjust background and foreground of disabled UI (dark medium and soft)
+
 ## 0.7.3
 - Don't use bright colors in console - IntelliJ's terminal already uses bold font
 - Fix Groovy keyword colors in dark soft and medium themes
