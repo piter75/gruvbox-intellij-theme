@@ -192,6 +192,7 @@
         "hoveredBackground": "bg1",
         "selectionInactiveForeground": "fg1"
       },
+      "GitCommits.graphColor": "#a8998499",
       "GitLog": {
         "headIconColor": "yellow1",
         "localBranchIconColor": "green1",
