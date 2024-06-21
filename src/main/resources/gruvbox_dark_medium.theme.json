@@ -133,6 +133,10 @@
         "inactiveBackground": "bg"
       }
     },
+    "ProgressBar": {
+      "indeterminateStartColor": "bg1",
+      "indeterminateEndColor": "bg3"
+    },
     "RunWidget": {
       "runIconColor": "aqua0",
       "runningIconColor": "fg",

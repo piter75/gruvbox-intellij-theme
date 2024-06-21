@@ -127,6 +127,16 @@
     "Notification": {
       "background": "bg0s"
     },
+    "Popup": {
+      "Header": {
+        "activeBackground": "bg",
+        "inactiveBackground": "bg"
+      }
+    },
+    "ProgressBar": {
+      "indeterminateStartColor": "bg1",
+      "indeterminateEndColor": "bg3"
+    },
     "RunWidget": {
       "runIconColor": "aqua0",
       "runningIconColor": "bg1",
@@ -134,12 +144,6 @@
       "stopBackground": "orange0",
       "foreground": "fg",
       "iconColor": "fg"
-    },
-    "Popup": {
-      "Header": {
-        "activeBackground": "bg",
-        "inactiveBackground": "bg"
-      }
     },
     "ToolWindow": {
       "Button": {
