@@ -137,8 +137,12 @@
       }
     },
     "ProgressBar": {
-      "indeterminateStartColor": "bg1",
-      "indeterminateEndColor": "bg3"
+      "indeterminateStartColor": "fg4",
+      "indeterminateEndColor": "bg3",
+      "progressColor": "fg4",
+      "trackColor": "bg3",
+      "passedColor": "aqua0",
+      "failedColor": "red0"
     },
     "RunWidget": {
       "runIconColor": "aqua0",

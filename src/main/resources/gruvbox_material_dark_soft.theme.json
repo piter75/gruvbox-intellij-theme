@@ -6,7 +6,7 @@
   "colors": {
     "bg0": "#32302f",
     "bg0h": "#252423",
-    "bg0s": "#3c3836",
+    "bg0s": "#383533",
     "bg1": "#3c3836",
     "bg2": "#3c3836",
     "bg3": "#504945",
@@ -51,6 +51,7 @@
 
       "selectionBackgroundInactive": "bg1",
       "selectionInactiveBackground": "bg1",
+
       "selectedBackground": "bg0h",
       "selectedForeground": "fg0",
       "selectedInactiveBackground": "bg0s",
@@ -137,8 +138,12 @@
       }
     },
     "ProgressBar": {
-      "indeterminateStartColor": "bg1",
-      "indeterminateEndColor": "bg3"
+      "indeterminateStartColor": "fg4",
+      "indeterminateEndColor": "bg3",
+      "progressColor": "fg4",
+      "trackColor": "bg3",
+      "passedColor": "aqua0",
+      "failedColor": "red0"
     },
     "RunWidget": {
       "runIconColor": "aqua0",
@@ -202,12 +207,12 @@
       }
     },
     "FileColor": {
-      "Yellow": "#fabd2f06",
-      "Green": "#b8bb2612",
-      "Blue": "#83a59822",
-      "Violet": "#d3869b22",
-      "Orange": "#fe801922",
-      "Rose": "#cc241d22"
+      "Yellow": "#fabd2f08",
+      "Green": "#b8bb2608",
+      "Blue": "#83a59808",
+      "Violet": "#d3869b08",
+      "Orange": "#fe801908",
+      "Rose": "#cc241d08"
     },
     "Link": {
       "activeForeground": "blue1",

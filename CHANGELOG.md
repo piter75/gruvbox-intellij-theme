@@ -2,6 +2,10 @@
 
 # Gruvbox theme changelog
 
+## Unreleased
+
+- Adjust non-determinable and determinable ProgressBar colors (dark medium and soft)
+
 ## 0.7.4
 - Adjust Git graph color in rebase dialog (dark medium and soft)
 - Adjust inactive selection foreground of lists (dark medium and soft)
