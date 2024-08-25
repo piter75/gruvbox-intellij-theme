@@ -4,6 +4,7 @@
 
 ## Unreleased
 
+## 0.7.5
 - Adjust non-determinable and determinable ProgressBar colors (dark medium and soft)
 
 ## 0.7.4
@@ -24,7 +25,6 @@
 - Fix unfocused selection foreground in unfocused VCS Log
 
 ## 0.7.1
-
 - Add preliminary versions of Gruvbox Material Dark Medium and Soft variants
 - Fix completion popup background in Dark Medium variant
 
