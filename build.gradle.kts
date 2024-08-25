@@ -13,10 +13,12 @@ plugins {
     id("org.jetbrains.intellij") version "1.17.3"
     // gradle-changelog-plugin - read more: https://github.com/JetBrains/gradle-changelog-plugin
     id("org.jetbrains.changelog") version "2.0.0"
+    // axion-release-plugin - read more: https://github.com/allegro/axion-release-plugin
+    id("pl.allegro.tech.build.axion-release") version "1.18.5"
 }
 
 group = properties("pluginGroup")
-version = properties("pluginVersion")
+version = scmVersion.version
 
 // Configure project's dependencies
 repositories {
