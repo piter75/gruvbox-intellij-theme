@@ -62,7 +62,6 @@ tasks {
     }
 
     patchPluginXml {
-        version.set(properties("pluginVersion"))
         sinceBuild.set(properties("pluginSinceBuild"))
         //untilBuild.set(null as String?) // doesn't really matter since this is just a theme
 
