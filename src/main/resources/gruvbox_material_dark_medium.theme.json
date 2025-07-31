@@ -103,10 +103,14 @@
     "DragAndDrop": {
       "areaBackground": "bg"
     },
+    "DefaultTabs": {
+      "underlineColor": "blue1",
+      "underlineHeight": 2,
+      "inactiveUnderlineColor": "bg5",
+      "underlinedTabBackground": "bg1"
+    },
     "EditorTabs": {
-      "selectedBackground": "bg0s",
-      "underlinedTabBackground": "bg1",
-      "underlineColor": "blue1"
+      "underlinedTabBackground": "bg1"
     },
     "List": {
       "selectionInactiveForeground": "fg1"
@@ -172,8 +176,9 @@
         "inactiveBackground": "bg"
       },
       "HeaderTab": {
-        "selectedInactiveBackground": "bg0h",
-        "hoverInactiveBackground": "bg0h"
+        "underlinedTabBackground": "bg1",
+        "underlinedTabInactiveBackground": "bg1",
+        "hoverBackground": "bg1"
       }
     },
     "ToolTip": {
