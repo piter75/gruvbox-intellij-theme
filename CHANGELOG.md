@@ -4,6 +4,10 @@
 
 ## Unreleased
 
+## 0.7.6
+
+- Make tabs more consistent where possible (dark medium and soft)
+
 ## 0.7.5
 - Adjust non-determinable and determinable ProgressBar colors (dark medium and soft)
 
